@@ -1,0 +1,29 @@
+body {
+    background-color: #F6F6F6 !important;
+}
+
+.card-text {
+    font-family: 'Lobster', cursive;
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    display: -webkit-box;
+    -webkit-line-clamp: 8;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.font-fix {
+    font-size: 12px;
+    line-height: 10px;
+    margin-left: 8px;
+}
+
+.font-fix>h2 {
+    font-size: 12px;
+}
